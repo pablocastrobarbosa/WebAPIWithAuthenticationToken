@@ -1,4 +1,4 @@
-﻿namespace WebAPIWithAuthenticationToken
+﻿namespace WebAPIWithAuthenticationToken.Configuration
 {
     public static class Settings
     {

@@ -2,6 +2,7 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using WebAPIWithAuthenticationToken.Configuration;
 using WebAPIWithAuthenticationToken.Models;
 
 namespace WebAPIWithAuthenticationToken.Services
